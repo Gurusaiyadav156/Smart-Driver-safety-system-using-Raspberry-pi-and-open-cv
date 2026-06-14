@@ -59,12 +59,12 @@ Working Principle
 
 Smart-Driver-Safety-System/
 │── README.md
-│── Documentation/
-│── Source_Code/
-│── Circuit_Diagram/
-│── Images/
-│── Results/
-``
+│── Documentation
+│── Source_Code
+│── Circuit_Diagram
+│── Images
+│── Results
+
 
 Future Improvements
 
