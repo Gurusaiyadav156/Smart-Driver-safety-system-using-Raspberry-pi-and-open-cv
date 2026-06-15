@@ -57,7 +57,7 @@ Working Principle
 
  Project Structure
 
-Smart-Driver-Safety-System/
+Smart-Driver-Safety-System
 │── README.md
 │── Documentation
 │── Source_Code
